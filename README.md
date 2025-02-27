@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) simple SaaS landing page project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It is a single-page project focused only on the UI without backend functionality.
 
 ✨ Features
+
 ✅ Fully responsive design
 ✅ Built with Next.js and Bootstrap
 ✅ Static UI only (no backend or API integration)
