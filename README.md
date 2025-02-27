@@ -3,7 +3,9 @@ This is a [Next.js](https://nextjs.org) simple SaaS landing page project bootstr
 ✨ Features
 
 ✅ Fully responsive design
+
 ✅ Built with Next.js and Bootstrap
+
 ✅ Static UI only (no backend or API integration)
 
 ## Getting Started
