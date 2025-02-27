@@ -161,9 +161,9 @@ const Header = () => {
             <Dropdown
                title="Products"
                links={[
-                  { title: "Product 1", to: "product1-section" },
-                  { title: "Product 2", to: "product2-section" },
-                  { title: "Product 3", to: "product3-section" },
+                  { title: "Personal", to: "product1-section" },
+                  { title: "Collaborative", to: "product2-section" },
+                  { title: "Entreprise", to: "product3-section" },
                ]}
             />
             <Dropdown
