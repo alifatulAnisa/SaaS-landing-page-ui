@@ -8,6 +8,8 @@ This is a [Next.js](https://nextjs.org) simple SaaS landing page project bootstr
 
 ✅ Static UI only (no backend or API integration)
 
+Can see lives at https://saas-landing-page-hazel.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
